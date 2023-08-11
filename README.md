@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
   - [Active Directory Homelab](https://github.com/MawiSecurity/Algorithms-Practice)
-  - [Vulnerability Management ](https://github.com/MawiSecurity/Algorithms-Practice)
+  - [Vulnerability Management ](https://youtube.com)
 
 <h2> Certs </h2>
   
